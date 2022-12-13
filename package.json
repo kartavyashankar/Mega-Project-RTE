@@ -10,7 +10,7 @@
   "author": "Kartavya Shaswat Anshul",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "require": "^2.4.20",
     "socket.io": "^3.0.3"
   }
